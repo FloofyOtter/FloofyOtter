@@ -1,5 +1,5 @@
-- 👋 Hellobo. I am Fuzzy.
-- That's all.
+👋 Hellobo. I am Fuzzy.
+That's all.
 
 <!---
 FloofyOtter/FloofyOtter is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
